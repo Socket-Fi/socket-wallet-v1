@@ -1,0 +1,6 @@
+# Rust's output directory
+target
+socketfi-smart-subaccount/target
+
+# Local Soroban settings
+.soroban
